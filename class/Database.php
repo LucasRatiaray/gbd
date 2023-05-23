@@ -4,7 +4,7 @@ class Database
 
     private $host       = "localhost";
     private $username   = "root";
-    private $password   = "$Askdp198ds90QD8Lndl01@";
+    private $password   = '$Askdp198ds90QD8Lndl01@';
     private $dbname     = "gbd";
 
     

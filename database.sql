@@ -1,7 +1,7 @@
 CREATE TABLE `depenses` (
-  id NOT NULL PRIMARY KEY,
+  id INT PRIMARY KEY,
   titre varchar(255) NOT NULL,
-  prix FLOAT NOT NULL,
+  prix FLOAT NOT NULL
 );
 
 
